@@ -1,4 +1,5 @@
 # Breast Cancer Diagnosis Using Machine Learning
+**Intern ID:** CITS9648
 
 ## Project overview
 This educational mini-project trains and compares Logistic Regression, Decision Tree, and Random Forest models using the Wisconsin Breast Cancer Diagnostic dataset included with scikit-learn.
